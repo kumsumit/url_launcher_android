@@ -171,7 +171,7 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -195,7 +195,7 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -275,13 +275,13 @@
       "name": "url_launcher_android",
       "rootUri": "../../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.1.5",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_platform_interface-b70f1c90590f8e2bf44eb84872282d0bfd74bdf9/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "vector_math",
@@ -323,10 +323,10 @@
       "name": "url_launcher_example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-12T04:40:07.075511Z",
+  "generated": "2023-09-12T06:17:31.247918Z",
   "generator": "pub",
   "generatorVersion": "3.1.1"
 }
