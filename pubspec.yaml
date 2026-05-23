@@ -1,12 +1,13 @@
 name: url_launcher_android
-publish_to: none
 description: Android implementation of the url_launcher plugin.
 repository: https://github.com/flutter/packages/tree/main/packages/url_launcher/url_launcher_android
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+url_launcher%22
-version: 6.3.14
+version: 6.3.30
+publish_to: none
+
 environment:
-  sdk: ^3.5.0
-  flutter: ">=3.24.0"
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
 
 flutter:
   plugin:
@@ -20,18 +21,19 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
+  meta: ^1.18.0  
   url_launcher_platform_interface: 
     git: https://github.com/kumsumit/url_launcher_platform_interface.git
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.4.4
+  mockito: ^5.6.4
   pigeon: 
     git: https://github.com/kumsumit/pigeon.git
   plugin_platform_interface:
     git: https://github.com/kumsumit/plugin_platform_interface.git
-  test: ^1.16.3
+  test: ^1.24.3
 
 topics:
   - links
