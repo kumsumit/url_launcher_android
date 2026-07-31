@@ -51,7 +51,7 @@ android {
 
 dependencies {
     // Java language implementation
-    implementation("androidx.core:core:1.18.0")
+    implementation("androidx.core:core:1.19.0")
     implementation("androidx.annotation:annotation:1.10.0")
     implementation("androidx.browser:browser:1.10.0")
     testImplementation("org.mockito:mockito-core:5.23.0")
